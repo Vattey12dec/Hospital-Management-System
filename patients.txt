@@ -1,0 +1,2 @@
+P002|Loo|25|dizzy|Emergency|General Medicine|seen|Drink more water!|2026-04-26
+P001|Veo|11|headache|Normal|Neurology|waiting||2026-04-26
